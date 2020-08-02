@@ -7,7 +7,7 @@ This app includes a simple animated button. When you click on this button, it ac
 It's like turning on a car engine
 It also has a sound of engine starting!.
  
-####The goal of this project is to be familiar with flutter animations.
+#### The goal of this project is to be familiar with flutter animations.
 
 ## App Design
 
@@ -19,9 +19,9 @@ It also has a sound of engine starting!.
 ![App](https://github.com/MehrdadHosseinNejad74/animated-button/blob/master/files/app-phone.png)
 
 ## Author
-####Mehrdad HosseinNejad
+#### Mehrdad HosseinNejad
 - [Stackoverflow](https://stackoverflow.com/users/6693037/mehrdad-hosseinnejad)
-- [Linkedin](www.linkedin.com/in/mehrdad-hosseinnejad)
+- [Linkedin](https://www.linkedin.com/in/mehrdad-hosseinnejad)
 - [Instagram](https://www.instagram.com/mehrdad1154)
 
 
