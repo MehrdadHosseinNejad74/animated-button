@@ -3,7 +3,7 @@
 
 ![Mustang Logo](https://github.com/MehrdadHosseinNejad74/animated-button/blob/master/assets/images/mustang.png)
 
-This app includes a simple animated button. When you click on this button, it acts like it pressed then an animated blue border is displayed.
+This app includes a simple animated button. When you click on this button, it acts like it pressed, then an animated blue border is displayed.
 
 It's like turning on a car engine.
 It also has a sound of engine starting.
