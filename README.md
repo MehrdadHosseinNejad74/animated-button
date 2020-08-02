@@ -12,10 +12,6 @@ It also has a sound of engine starting!.
 ## App Design
 
 ![App Design](https://github.com/MehrdadHosseinNejad74/animated-button/blob/master/files/app.gif)
-
-
-## Screenshots
-
 ![App](https://github.com/MehrdadHosseinNejad74/animated-button/blob/master/files/app-phone.png)
 
 ## Author
